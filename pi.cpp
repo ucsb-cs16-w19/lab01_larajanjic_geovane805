@@ -30,7 +30,7 @@ int main() {
 		}
 		cout << "Enter the value of the parameter 'n' in the Leibniz formula (or -1 to quit):" << endl;
 		cin >> n;
-	}while(n > 0);
+	}while(n >= 0);
 
 	return 0;
 }
