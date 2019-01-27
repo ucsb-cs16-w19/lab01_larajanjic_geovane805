@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	int var1, var2;
-	cout << "Enter the number of rows and columns:\n";
+	cout << "Enter number of rows and columns:";
 	cin >> var1 >> var2;
 	while(var1 > 0 && var2 > 0)
 	{
@@ -15,7 +15,7 @@ int main() {
 			}
 			cout << endl;
 		}
-		cout << "Enter the number of rows and columns:" << endl;
+		cout << "Enter number of rows and columns:" << endl;
 		cin >> var1 >> var2;
 	}
 	return 0;
