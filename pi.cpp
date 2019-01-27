@@ -24,7 +24,7 @@ int main() {
 			{
 				cout << "The approximated value of pi using " << n+1 << " term is: " << pi << endl;
 	
-		}	
+			}	
 			else 
 			{
 				cout << "The approximated value of pi using " << n+1 << " terms is: " << pi << endl;
