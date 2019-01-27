@@ -22,12 +22,12 @@ int main() {
 
 			if (n == 0) 
 			{
-				cout << "The approximated value of pi using " << n+1 << " term is: " << pi << endl;
+				cout << "The approximate value of pi using " << n+1 << " term is: " << pi << endl;
 	
 			}	
 			else 
 			{
-				cout << "The approximated value of pi using " << n+1 << " terms is: " << pi << endl;
+				cout << "The approximate value of pi using " << n+1 << " terms is: " << pi << endl;
 	
 			}
 			cout << "Enter the value of the parameter 'n' in the Leibniz formula (or -1 to quit):" << endl;
